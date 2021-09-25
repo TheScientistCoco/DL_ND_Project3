@@ -1,2 +1,2 @@
 # DL_ND_Project3
-Generate TV Scripts
+Udacity Deep Learning Nanodegree Project 3: Generate TV Scripts
